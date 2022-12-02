@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kate\\Documents\\Sharp\\leson2\\Ex11ArrayLibrary\\Ex11ArrayLibrary.csproj": {}
+    "C:\\Users\\kate\\Documents\\Sharp\\Leson2\\Ex11ArrayLibrary\\Ex11ArrayLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kate\\Documents\\Sharp\\leson2\\Ex11ArrayLibrary\\Ex11ArrayLibrary.csproj": {
+    "C:\\Users\\kate\\Documents\\Sharp\\Leson2\\Ex11ArrayLibrary\\Ex11ArrayLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kate\\Documents\\Sharp\\leson2\\Ex11ArrayLibrary\\Ex11ArrayLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\kate\\Documents\\Sharp\\Leson2\\Ex11ArrayLibrary\\Ex11ArrayLibrary.csproj",
         "projectName": "Ex11ArrayLibrary",
-        "projectPath": "C:\\Users\\kate\\Documents\\Sharp\\leson2\\Ex11ArrayLibrary\\Ex11ArrayLibrary.csproj",
+        "projectPath": "C:\\Users\\kate\\Documents\\Sharp\\Leson2\\Ex11ArrayLibrary\\Ex11ArrayLibrary.csproj",
         "packagesPath": "C:\\Users\\kate\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kate\\Documents\\Sharp\\leson2\\Ex11ArrayLibrary\\obj\\",
+        "outputPath": "C:\\Users\\kate\\Documents\\Sharp\\Leson2\\Ex11ArrayLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kate\\AppData\\Roaming\\NuGet\\NuGet.Config"
